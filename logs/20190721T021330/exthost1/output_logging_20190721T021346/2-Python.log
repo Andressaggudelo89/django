@@ -1,0 +1,60 @@
+User belongs to experiment group 'AlwaysDisplayTestExplorer - control'
+Starting Jedi Python language engine.
+Linting with pylint failed.
+Error: Module 'pylint' not installed.
+##########Linting Output - pylint##########
+************* Module comments.views
+1,0,error,import-error:Unable to import 'django.shortcuts'
+2,0,error,import-error:Unable to import 'django.http'
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module comments.views
+1,0,error,import-error:Unable to import 'django.shortcuts'
+2,0,error,import-error:Unable to import 'django.http'
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module mytwitt.urls
+16,0,error,import-error:Unable to import 'django.contrib'
+17,0,error,import-error:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -23.33/10 (previous run: -23.33/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module mytwitt.urls
+16,0,error,import-error:Unable to import 'django.contrib'
+17,0,error,import-error:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -23.33/10 (previous run: -23.33/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module mytwitt.urls
+16,0,error,import-error:Unable to import 'django.contrib'
+17,0,error,import-error:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -23.33/10 (previous run: -23.33/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module mytwitt.urls
+16,0,error,import-error:Unable to import 'django.contrib'
+17,0,error,import-error:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -23.33/10 (previous run: -23.33/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module mytwitt.urls
+16,0,error,import-error:Unable to import 'django.contrib'
+17,0,error,import-error:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -23.33/10 (previous run: -23.33/10, +0.00)
+
