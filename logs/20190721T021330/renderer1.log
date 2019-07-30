@@ -1,2 +1,0 @@
-[2019-07-21 02:13:45.507] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/andres/django/.vscode'
-[2019-07-21 02:13:45.508] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/andres/django/.vscode'
