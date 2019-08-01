@@ -76,6 +76,8 @@ WSGI_APPLICATION = 'mytwitt.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
+# DATABASES = {   'default': {'ENGINE': 'django_mongodb_engine',  'NAME': 'database',   }}
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
